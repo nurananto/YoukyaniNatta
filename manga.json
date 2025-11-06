@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 154,
+    "views": 194,
     "links": {
       "mangadex": "https://mangadex.org/title/cfcb65ff-cf9b-4628-a666-76d1b06553dc/youkya-ni-natta-ore-no-seishun-shijou-shugi",
       "raw": "https://www.manga-up.com/titles/1388"
@@ -46,19 +46,19 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 20
+      "views": 31
     },
     "2.2": {
       "title": "Chapter 2.2",
       "chapter": 2.2,
       "folder": "2.2",
-      "uploadDate": "2025-11-05T09:15:27+07:00",
+      "uploadDate": "2025-11-06T09:15:43+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
       "views": 0
     }
   },
-  "lastUpdated": "2025-11-05T09:15:27+07:00",
+  "lastUpdated": "2025-11-06T09:15:43+07:00",
   "lastChapterUpdate": "2025-11-04T22:03:49+07:00"
 }
