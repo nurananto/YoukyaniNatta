@@ -24,7 +24,7 @@
     "imagePrefix": "Image",
     "imageFormat": "jpg",
     "lockedChapters": [
-      "2.2"
+      "2.3"
     ]
   },
   "chapters": {
@@ -52,13 +52,23 @@
       "title": "Chapter 2.2",
       "chapter": 2.2,
       "folder": "2.2",
-      "uploadDate": "2025-11-06T09:15:43+07:00",
+      "uploadDate": "2025-11-06T11:04:40+07:00",
+      "totalPages": 12,
+      "pages": 12,
+      "locked": false,
+      "views": 0
+    },
+    "2.3": {
+      "title": "Chapter 2.3",
+      "chapter": 2.3,
+      "folder": "2.3",
+      "uploadDate": "2025-11-06T11:05:01+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
       "views": 0
     }
   },
-  "lastUpdated": "2025-11-06T09:15:43+07:00",
-  "lastChapterUpdate": "2025-11-04T22:03:49+07:00"
+  "lastUpdated": "2025-11-06T11:05:01+07:00",
+  "lastChapterUpdate": "2025-11-06T11:04:40+07:00"
 }
