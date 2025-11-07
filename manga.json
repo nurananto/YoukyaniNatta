@@ -23,9 +23,7 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/YoukyaniNatta/main/",
     "imagePrefix": "Image",
     "imageFormat": "jpg",
-    "lockedChapters": [
-      "2.3"
-    ]
+    "lockedChapters": []
   },
   "chapters": {
     "1": {
@@ -57,18 +55,8 @@
       "pages": 12,
       "locked": false,
       "views": 19
-    },
-    "2.3": {
-      "title": "Chapter 2.3",
-      "chapter": 2.3,
-      "folder": "2.3",
-      "uploadDate": "2025-11-07T09:13:34+07:00",
-      "totalPages": 0,
-      "pages": 0,
-      "locked": true,
-      "views": 2
     }
   },
-  "lastUpdated": "2025-11-07T19:29:33+07:00",
-  "lastChapterUpdate": "2025-11-07T09:13:34+07:00"
+  "lastUpdated": "2025-11-07T19:30:33+07:00",
+  "lastChapterUpdate": "2025-11-06T11:04:40+07:00"
 }
