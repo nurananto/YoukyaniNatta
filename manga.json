@@ -2,7 +2,7 @@
   "manga": {
     "title": "Youkya ni Natta Ore no Seishun Shijou Shugi",
     "alternativeTitle": "陽キャになった俺の青春至上主義",
-    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/youkyaninatta-3eaf02cf-980c-44af-9ab9-2032f7458fb8.jpg",
+    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/youkyaninatta-3eaf02cf-980c-44af-9ab9-2032f7458fb8.webp",
     "description": "Di dunia ini, secara garis besar ada dua jenis manusia: ekstrovert dan introvert. Untuk menikmati masa muda yang terbatas ini, hanya ada satu jalan yang harus dipilih. Dengan kata lain — kalau mau populer dan disukai, jadilah seorang ekstrovert. Ueda Kyouta, mantan introvert, berhasil “debut” di SMA berkat usaha dan tekad, dan menjalani kehidupan sekolah yang mulus bersama anak-anak populer. Tinggal punya pacar gyaru dan hidupnya akan sempurna — tapi kenapa justru tanda-tanda asmara yang muncul hanya dengan cewek-cewek introvert…!?",
     "author": "Mochizaki Yuba",
     "artist": "Koa",
@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 380,
+    "views": 384,
     "links": {
       "mangadex": "https://mangadex.org/title/cfcb65ff-cf9b-4628-a666-76d1b06553dc/youkya-ni-natta-ore-no-seishun-shijou-shugi",
       "raw": "https://www.manga-up.com/titles/1388"
@@ -34,7 +34,7 @@
       "totalPages": 77,
       "pages": 77,
       "locked": false,
-      "views": 84
+      "views": 85
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -44,7 +44,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 78
+      "views": 80
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -54,9 +54,9 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 70
+      "views": 71
     }
   },
-  "lastUpdated": "2025-11-18T09:14:37+07:00",
+  "lastUpdated": "2025-11-19T00:40:57+07:00",
   "lastChapterUpdate": "2025-11-06T11:04:40+07:00"
 }
