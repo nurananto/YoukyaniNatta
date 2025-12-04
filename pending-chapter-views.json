@@ -1,30 +1,30 @@
 {
   "chapters": {
     "1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-04T16:06:49.673Z",
-      "lastUpdate": "2025-12-04T00:15:40+07:00"
+      "lastUpdate": "2025-12-05T00:15:29+07:00"
     },
     "2.1": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-04T16:17:40.084Z",
-      "lastUpdate": "2025-12-04T00:15:40+07:00"
+      "lastUpdate": "2025-12-05T00:15:29+07:00"
     },
     "2.2": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-04T16:18:56.233Z",
-      "lastUpdate": "2025-12-04T00:15:40+07:00"
+      "lastUpdate": "2025-12-05T00:15:29+07:00"
     },
     "2.3": {
-      "pendingViews": 3,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-04T16:20:23.773Z",
-      "lastUpdate": "2025-12-04T00:15:40+07:00"
+      "lastUpdate": "2025-12-05T00:15:29+07:00"
     },
     "3.1": {
-      "pendingViews": 4,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-04T16:21:37.516Z",
-      "lastUpdate": "2025-12-04T00:15:40+07:00"
+      "lastUpdate": "2025-12-05T00:15:29+07:00"
     }
   },
-  "lastUpdated": "2025-12-04T00:15:40+07:00"
+  "lastUpdated": "2025-12-05T00:15:29+07:00"
 }
