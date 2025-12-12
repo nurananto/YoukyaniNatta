@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Youkya ni Natta Ore no Seishun Shijou Shugi",
   "alternativeTitle": "陽キャになった俺の青春至上主義",
   "cover": "https://cdn.nuranantoscans.my.id/covers/youkyaninatta-3eaf02cf-980c-44af-9ab9-2032f7458fb8.webp",
@@ -13,8 +14,8 @@
     "School Life",
     "Slice of Life"
   ],
-  "status": "Ongoing",
-  "views": 0,
+  "status": "ONGOING",
+  "endChapter": null,
   "links": {
     "mangadex": "https://mangadex.org/title/cfcb65ff-cf9b-4628-a666-76d1b06553dc/youkya-ni-natta-ore-no-seishun-shijou-shugi",
     "raw": "https://www.manga-up.com/titles/1388"
