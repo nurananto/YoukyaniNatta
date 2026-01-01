@@ -76,8 +76,18 @@
       "pages": 10,
       "locked": false,
       "views": 114
+    },
+    "3.2": {
+      "title": "Chapter 3.2",
+      "chapter": 3.2,
+      "folder": "3.2",
+      "uploadDate": "2026-01-01T11:40:45+07:00",
+      "totalPages": 10,
+      "pages": 10,
+      "locked": false,
+      "views": 0
     }
   },
-  "lastUpdated": "2026-01-01T00:10:24+07:00",
-  "lastChapterUpdate": "2025-11-29T22:02:17+07:00"
+  "lastUpdated": "2026-01-01T11:41:33+07:00",
+  "lastChapterUpdate": "2026-01-01T11:40:45+07:00"
 }
