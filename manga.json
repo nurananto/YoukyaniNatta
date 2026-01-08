@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 544,
+    "views": 581,
     "links": {
       "mangadex": "https://mangadex.org/title/cfcb65ff-cf9b-4628-a666-76d1b06553dc/youkya-ni-natta-ore-no-seishun-shijou-shugi",
       "raw": "https://www.manga-up.com/titles/1388"
@@ -35,7 +35,7 @@
       "totalPages": 77,
       "pages": 77,
       "locked": false,
-      "views": 138
+      "views": 147
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -45,7 +45,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 95
+      "views": 101
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -55,7 +55,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 113
+      "views": 115
     },
     "2.3": {
       "title": "Chapter 2.3",
@@ -65,7 +65,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 145
+      "views": 147
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -75,7 +75,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 153
+      "views": 157
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -85,7 +85,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 65
+      "views": 74
     },
     "3.3": {
       "title": "Chapter 3.3",
@@ -95,7 +95,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 73
+      "views": 81
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -105,7 +105,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 16
+      "views": 31
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -115,7 +115,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 15
+      "views": 32
     },
     "4.3": {
       "title": "Chapter 4.3",
@@ -125,9 +125,9 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 5
+      "views": 26
     }
   },
-  "lastUpdated": "2026-01-08T00:18:19+07:00",
+  "lastUpdated": "2026-01-09T00:19:46+07:00",
   "lastChapterUpdate": "2026-01-07T19:40:34+07:00"
 }
